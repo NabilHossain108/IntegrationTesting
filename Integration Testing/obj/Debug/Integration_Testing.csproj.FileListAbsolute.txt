@@ -1,0 +1,20 @@
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\Mono.Cecil.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\nunit.core.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\nunit.core.interfaces.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\nunit.util.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\Integration Testing.dll.config
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\Integration Testing.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\Integration Testing.pdb
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\nunit.framework.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\WebDriver.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\nunit.framework.pdb
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\nunit.framework.xml
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\bin\Debug\WebDriver.xml
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\obj\Debug\Integration_Testing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\obj\Debug\Integration_Testing.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\obj\Debug\Integration Testing.dll
+C:\Users\ASUS\source\repos\Integration Testing\Integration Testing\obj\Debug\Integration Testing.pdb
